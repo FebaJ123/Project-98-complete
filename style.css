@@ -1,0 +1,9 @@
+#scene
+{
+ width: 500px;
+ height: 350px;
+}
+body
+{
+background-color: linear-gradient  (rgb(0, 238, 255) 0%, rgb(0, 255, 136) 50%, rgb(0, 255, 55) 100%) ;
+}
